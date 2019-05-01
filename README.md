@@ -1,5 +1,5 @@
-﻿Front-End: my-app  
-Back-End: CarShowBackEnd
+﻿Front-End: my-app using React.Js
+Back-End: CarShowBackEnd using Java 1.8 with Spring Boot 2.0
 
 This project was bootstrapped with [Create React App]
 
